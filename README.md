@@ -1,4 +1,4 @@
-#　Vision API test for food detection
+# Vision API test for food detection
 
 This is a teet project for food detection using Google Vision API.
 
